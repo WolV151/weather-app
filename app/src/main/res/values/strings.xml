@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PMD Assignment 2</string>
+    <string name="submit">fab_submit</string>
+    <string name="placeholder">Placeholder</string>
+
+    <string-array name="title_array">
+        <item>Select</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>Dublin</item>
+        <item>Milan</item>
+        <item>Rome</item>
+        <item>Sofia</item>
+        <item>Berlin</item>
+        <item>Kiev</item>
+        <item>Prague</item>
+        <item>Edinburgh</item>
+        <item>Moscow</item>
+        <item>Bucharest</item>
+    </string-array>
+
+</resources>
